@@ -41,7 +41,7 @@ categories:
 
 };
 ```
-![img](img/bkey.png)
+![img](bkey.png)
 
 其中：
 
